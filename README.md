@@ -6,13 +6,13 @@ IP SLA (IP Service Level Agreement) is a feature provided by Cisco Systems that 
 
 # Key Functions of IP SLA
 
-#### Performance Monitoring:
+#### 1. Performance Monitoring:
 - Tracks network performance metrics such as latency, jitter, packet loss, and network response time.
-#### Proactive Troubleshooting:
+#### 2. Proactive Troubleshooting:
 - Identifies and resolves potential issues before they affect users.
-#### Service Level Monitoring:
+#### 3. Service Level Monitoring:
 - Ensures compliance with service level agreements (SLAs) by monitoring the network's ability to meet predefined performance criteria.
-#### Path Selection:
+#### 4. Path Selection:
 - Helps select the best path for data routing based on real-time performance metrics.
 
 
