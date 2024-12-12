@@ -15,6 +15,13 @@ IP SLA (IP Service Level Agreement) is a feature provided by Cisco Systems that 
 #### 4. Path Selection:
 - Helps select the best path for data routing based on real-time performance metrics.
 
+---
+
+# How IP SLA Works
+- Simulation: IP SLA generates synthetic traffic, such as UDP, ICMP, or HTTP packets, and sends them across the network to a target device.
+- Measurement: The target device (or responder) returns the packets, allowing IP SLA to measure round-trip time (RTT), jitter, and packet loss.
+- Reporting: The collected data is stored and analyzed, often integrated with monitoring tools like Cisco Prime or third-party NMS solutions.
+
 
 
 
