@@ -4,8 +4,10 @@
 ---
 
 ![image](https://github.com/user-attachments/assets/50182481-c966-4fb4-80c7-7cde8f93c7b9)
+<h2 align="center">IP Assign on Customer Site</h2>
 
-<h2 align="center">IP Assign on Customer Site Interface (1.2)</h2>
+![image](https://github.com/user-attachments/assets/4b6dcc4b-5882-40a5-b23d-4e326a92d23c)
+<h2 align="center">IP Assign on ISP-1,2</h2>
 
 ---
 
