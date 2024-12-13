@@ -14,3 +14,14 @@
 ---
 ### When the primary link becomes operational again (IP SLA detects the next-hop is reachable), the tracking object changes to Up. The router automatically reinstalls the primary route in the routing table because it has a lower AD than the secondary route. Traffic shifts back to the primary link.
 ![image](https://github.com/user-attachments/assets/2d895844-d53c-4a88-8a38-35af0e5ddb1f)
+
+---
+
+## Conclusion
+
+Thank you for exploring this repository! We hope you find the project helpful and informative.
+
+## Support
+If you like this project, consider giving it a ⭐ to show your support!
+
+---
