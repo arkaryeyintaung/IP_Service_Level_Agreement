@@ -10,3 +10,7 @@
 
 ### Now, the primary link becomes unreachable, the tracking object goes Down, and the primary route is removed from the routing table. When the primary route is removed, the router automatically uses the secondary route (with higher AD) as the active route.
 ![image](https://github.com/user-attachments/assets/f4e29556-9481-4cc7-81b0-debd5622b91b)
+
+---
+### When the primary link becomes operational again (IP SLA detects the next-hop is reachable), the tracking object changes to Up. The router automatically reinstalls the primary route in the routing table because it has a lower AD than the secondary route. Traffic shifts back to the primary link.
+![image](https://github.com/user-attachments/assets/2d895844-d53c-4a88-8a38-35af0e5ddb1f)
