@@ -8,6 +8,5 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/1714493e-4135-4e93-939d-1c0831e303cc)
-
-
+### Now, the primary link becomes unreachable, the tracking object goes Down, and the primary route is removed from the routing table. When the primary route is removed, the router automatically uses the secondary route (with higher AD) as the active route.
+![image](https://github.com/user-attachments/assets/f4e29556-9481-4cc7-81b0-debd5622b91b)
