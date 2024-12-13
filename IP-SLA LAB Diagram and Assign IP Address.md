@@ -10,7 +10,7 @@
 ---
 
 ![image](https://github.com/user-attachments/assets/decb31bb-2e9a-4213-b48d-abdafcef4ce1)
-```
-ip route 0.0.0.0 0.0.0.0 10.0.1.2
-```
-(This is the primary route unless overridden by a more specific or lower AD route.)
+
+In this case:
+- The first route (to 10.0.1.2) with an AD of 1 will be the primary route. If you don’t specify an AD, the router assumes the default value of 1.
+- The second route (to 20.0.2.2) with an AD of 2 will only be used if the primary route becomes unavailable.
