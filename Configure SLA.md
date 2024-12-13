@@ -9,8 +9,3 @@ no ip route 0.0.0.0 0.0.0.0 10.0.1.2
 ip route 0.0.0.0 0.0.0.0 10.0.1.2 track 1
 track 1 ip sla 1
 ```
-
-```
-cd /opt/splunkforwarder/bin
-./splunk set deploy-poll <your_indexer_ip_address>:8089
-```
